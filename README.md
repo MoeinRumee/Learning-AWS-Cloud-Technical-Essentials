@@ -5,3 +5,4 @@
 - Security - Customer resposible for security in the cloud, AWS responsible for security of the cloud.
 - Protect the AWS Root User - use MFA.
 - IAM Policy - 4 major JSON elements - Version. effect, action, resource
+- Explored AWS Lab with IAM users and permissions. Put users into groups and check permissions.
